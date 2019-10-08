@@ -1,0 +1,25 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "In this unit's assignment, you will create a Word Guess command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanrichter/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanrichter/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/seanrichter/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {}
+}

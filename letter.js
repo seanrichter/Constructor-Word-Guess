@@ -23,4 +23,4 @@ function letter(value) {
         }
     }
 }
-module.exports = Letter;
+module.exports = letter;
