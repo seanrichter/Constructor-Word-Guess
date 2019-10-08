@@ -1,3 +1,5 @@
+console.log("hello world")
+
 function letter(value) {
     this.letter = value;
     this.guessed = false;
@@ -15,10 +17,10 @@ function letter(value) {
         }
     };
 
-    this.guess = function(guess) {
-        if(guess === this.letter) {
+    this.guess = function (guess) {
+        if (guess === this.letter) {
             this.guessed = true;
         }
     }
 }
-moduel.exports = Letter;
+module.exports = Letter;
