@@ -1,5 +1,5 @@
 {
-  "name": "Constructor-Word-Guess",
+  "name": "index",
   "version": "1.0.0",
   "description": "In this unit's assignment, you will create a Word Guess command-line game using constructor functions.",
   "main": "index.js",
